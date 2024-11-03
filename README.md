@@ -103,10 +103,10 @@ En el archivo `src/firebase/config.js`, define las credenciales necesarias para 
 
 Configuración de Firebase para la aplicación web
 
-- apiKey:             "__apiKey__",            // Clave API de Firebase
-- authDomain:         "__authDomain__",        // Dominio de autenticación
-- projectId:          "__projectId__",         // ID del proyecto en Firebas
-- storageBucket:      "__storageBucket__",     // Bucket de almacenamiento
-- messagingSenderId:  "__messagingSenderId__", // ID del remitente de mensajes
-- appId:              "__appId__"              // ID de la aplicación
+- apiKey: Clave API de Firebase
+- authDomain: Dominio de autenticación
+- projectId: ID del proyecto en Firebas
+- storageBucket: Bucket de almacenamiento
+- messagingSenderId: ID del remitente de mensajes
+- appId: ID de la aplicación
 
