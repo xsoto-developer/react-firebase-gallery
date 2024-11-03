@@ -1,4 +1,4 @@
-# React Firebase Gallery: Listado y Búsqueda de Imágenes
+# React Firebase Gallery:
 
 ## Descripción
 Este proyecto es una aplicación web desarrollada en React que permite a los usuarios registrarse y autenticarse utilizando Firebase Authentication y Google Sign-In. Los usuarios pueden crear, ver, actualizar y eliminar entradas de texto (título y descripción) en Firestore Database y cargar imágenes utilizando Cloudinary Management Console. La aplicación también incluye un sistema de administración de estado robusto utilizando Redux Toolkit y varias herramientas adicionales para mejorar la experiencia del usuario y el flujo de desarrollo.
