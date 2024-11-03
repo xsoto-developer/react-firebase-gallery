@@ -101,12 +101,12 @@ La página se volverá a cargar cuando realices cambios.\
 ## Configuración de Variables Firebase
 En el archivo `src/firebase/config.js`, define las credenciales necesarias para la configuración de Firebase de tu aplicación. Asegúrate de reemplazar los valores en `firebaseConfig` con tus credenciales específicas:
 
-`// Configuración de Firebase para la aplicación web`
-`const firebaseConfig = {`
-  `apiKey:             "__apiKey__",            // Clave API de Firebase`
-  `authDomain:         "__authDomain__",        // Dominio de autenticación`
-  `projectId:          "__projectId__",         // ID del proyecto en Firebas`
-  `storageBucket:      "__storageBucket__",     // Bucket de almacenamiento`
-  `messagingSenderId:  "__messagingSenderId__", // ID del remitente de mensajes`
-  `appId:              "__appId__"              // ID de la aplicación`
-`};`
+// Configuración de Firebase para la aplicación web
+const firebaseConfig = {
+  apiKey:             "__apiKey__",            // Clave API de Firebase
+  authDomain:         "__authDomain__",        // Dominio de autenticación
+  projectId:          "__projectId__",         // ID del proyecto en Firebas
+  storageBucket:      "__storageBucket__",     // Bucket de almacenamiento
+  messagingSenderId:  "__messagingSenderId__", // ID del remitente de mensajes
+  appId:              "__appId__"              // ID de la aplicación
+};
